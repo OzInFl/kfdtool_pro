@@ -1,4 +1,4 @@
-# KFDtool Professional - ESP32 Edition
+# KFDtool Professional - ESP32 Edition (NON FUNCTIONAL AS OF YET!!)
 
 A full-featured P25 Key Fill Device implementation for the ESP32-S3 platform (WT32-SC01-Plus), inspired by and compatible with the [KFDtool](https://github.com/omahacommsys/KFDtool) desktop application.
 
